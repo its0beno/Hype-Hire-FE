@@ -1,10 +1,9 @@
 function Home() {
   return (
     <>
-      <div>Home</div>
-      <div>Online shop cart system in Typescript and ReactJS</div>
+      <h1>HypeHire</h1>
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;
